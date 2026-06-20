@@ -44,3 +44,18 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .vercel
+# Flutter
+build/
+.dart_tool/
+.pub-cache/
+.pub/
+*.iml
+*.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
